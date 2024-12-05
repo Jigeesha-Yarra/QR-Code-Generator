@@ -9,13 +9,13 @@ A simple web application to generate QR codes dynamically based on user input. W
 
 
 # Technologies Used:
-HTML5: Structure of the webpage.
-CSS3: Basic styling for the page.
-JavaScript: Dynamic behavior and QR code generation.
-QRCode.js: External library for creating QR codes.
+1. HTML5: Structure of the webpage.
+2. CSS3: Basic styling for the page.
+3. JavaScript: Dynamic behavior and QR code generation.
+4. QRCode.js: External library for creating QR codes.
 
 # How It Works:
-The page loads with a default QR code.
-The user types text or a URL into the input field.
-On pressing Enter, the QR code updates to represent the user's input.
-If the input field is blank, an alert prompts the user to provide valid input.
+i. The page loads with a default QR code.
+ii. The user types text or a URL into the input field.
+iii. On pressing Enter, the QR code updates to represent the user's input.
+iv. If the input field is blank, an alert prompts the user to provide valid input.
